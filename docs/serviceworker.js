@@ -19,7 +19,7 @@ var filesToCache = [
     //The web assembly/.net dll's
     './_framework/wasm/mono.js',
     './_framework/wasm/mono.wasm',
-    './_framework/_bin/Microsoft.AspNetCore.Blazor.Browser.dll',
+    //'./_framework/_bin/Microsoft.AspNetCore.Blazor.Browser.dll',
     './_framework/_bin/Microsoft.AspNetCore.Blazor.dll',
     './_framework/_bin/Microsoft.Extensions.DependencyInjection.Abstractions.dll',
     './_framework/_bin/Microsoft.Extensions.DependencyInjection.dll',
